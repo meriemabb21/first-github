@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "HASSANIA UNION SPORT D'AGADIR",
+    "logoUrl": "https://example.com/logos/hassania.png",
+    "coach": "Abdelhadi Sektioui",
+    "fifaRanking": 25
+  },
+  {
+    "id": 2,
+    "name": "Wydad Athletic Club",
+    "logoUrl": "https://example.com/logos/wydad.png",
+    "coach": "Rulani Mokwena",
+    "fifaRanking": 18
+  },
+  {
+    "id": 3,
+    "name": "Raja Casablanca",
+    "logoUrl": "https://example.com/logos/raja.png",
+    "coach": "Ricardo Sa Pinto",
+    "fifaRanking": 22
+  },
+  {
+    "id": 4,
+    "name": "FAR Rabat",
+    "logoUrl": "https://example.com/logos/far.png",
+    "coach": "Hussein Amotta",
+    "fifaRanking": 30
+  }
+]

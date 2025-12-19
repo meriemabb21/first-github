@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "team_id": 1,
+    "name": "Yassine Rami",
+    "position": "Défenseur",
+    "goals": 2,
+    "assists": 0
+  },
+  {
+    "id": 2,
+    "team_id": 2,
+    "name": "Mohamed Rayhi",
+    "position": "Attaquant",
+    "goals": 3,
+    "assists": 4
+  },
+  {
+    "id": 3,
+    "team_id": 3,
+    "name": "Mohsine Moutaouali",
+    "position": "Milieu",
+    "goals": 1,
+    "assists": 2
+  },
+  {
+    "id": 4,
+    "team_id": 4,
+    "name": "Ayoub Lakred",
+    "position": "Gardien",
+    "goals": 0,
+    "assists": 0
+  },
+  {
+    "id": 5,
+    "team_id": 1,
+    "name": "Soufiane Rahimi",
+    "position": "Attaquant",
+    "goals": 5,
+    "assists": 3
+  }
+]
